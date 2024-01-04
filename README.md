@@ -1,5 +1,5 @@
-# XboxEMU 
-New Xbox 360 Emulator for PC
+# XboxEMU Echo360
+New Xbox 360 Emulator for PC Echo360
 
 Hello everyone,
 
