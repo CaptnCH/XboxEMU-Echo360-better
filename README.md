@@ -17,3 +17,5 @@ Implementing a plugin system to allow for expandability and customization.
 I welcome your thoughts, feedback, and contributions as we take the first steps toward creating XSphere360. Let's make gaming history together!
 
 Check out the project on GitHub and let's get started
+
+Roadmap: https://github.com/users/StevenCastroSC/projects/2
