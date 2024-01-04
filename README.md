@@ -3,7 +3,7 @@ New Xbox 360 Emulator for PC
 
 Hello everyone,
 
-After someone asked toi me to be contributing to the Xenia project, I've decided to embark on a new journey to develop an emulator tailored to the community's needs, leveraging my experience and skills to create something remarkable. I'm excited to introduce the New Emulator project – an endeavor to bring Xbox 360 games to life with enhanced functionality and user experience.
+After someone asked to me to be contributing to the Xenia project, I've decided to embark on a new journey to develop an emulator tailored to the community's needs, leveraging my experience and skills to create something remarkable. I'm excited to introduce the New Emulator project – an endeavor to bring Xbox 360 games to life with enhanced functionality and user experience.
 
 The vision for this emulaotr is not just to replicate the gaming environment but to elevate it. We aim to build an emulator that is both powerful and user-friendly, offering features that enhance gameplay, improve performance, and ensure compatibility across a diverse range of games.
 
