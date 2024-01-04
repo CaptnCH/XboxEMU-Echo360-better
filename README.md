@@ -1,3 +1,4 @@
+![_6b0338de-a0b1-4ee7-84c3-4ddb34ad4f98](https://github.com/StevenCastroSC/XboxEMU-Echo360-/assets/123419009/3b4bccc6-2bca-4beb-82f4-2263dbf2d98c)
 # XboxEMU Echo360
 New Xbox 360 Emulator for PC Echo360
 
