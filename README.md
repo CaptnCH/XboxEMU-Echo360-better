@@ -17,7 +17,7 @@ The initial phase of the project will focus on the following objectives:
 Establishing a robust core architecture that simulates the Xbox 360 environment accurately.
 Designing a user interface that is intuitive and accessible to gamers of all levels.
 Implementing a plugin system to allow for expandability and customization.
-I welcome your thoughts, feedback, and contributions as we take the first steps toward creating XSphere360. Let's make gaming history together!
+I welcome your thoughts, feedback, and contributions as we take the first steps toward creating Echo-360. Let's make gaming history together!
 
 Check out the project on GitHub and let's get started
 
