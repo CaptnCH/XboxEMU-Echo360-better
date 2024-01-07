@@ -1,0 +1,66 @@
+﻿  build.cpp
+  widgetHelpers.cpp
+  utils.cpp
+  treelistctrl.cpp
+  traceMemoryView.cpp
+  traceInfoView.cpp
+  timeMachineView.cpp
+  startWindow.cpp
+  registerView.cpp
+  horizontalView.cpp
+  projectMemoryView.cpp
+  project.cpp
+  progressDialog.cpp
+  memoryViewMapping.cpp
+  projectImage.cpp
+  projectDynamicTraceData.cpp
+  projectAddressHistory.cpp
+  memoryView.cpp
+  logWindow.cpp
+  htmlBuilder.cpp
+  gotoAddressDialog.cpp
+  Generando código...
+  Compilando...
+  projectWindow.cpp
+  projectTraceTab.cpp
+  projectMainTab.cpp
+  projectImageTab.cpp
+  memoryTraceView.cpp
+  memoryHistoryView.cpp
+  findSymbolDialog.cpp
+  eventListener.cpp
+  eventDispatcher.cpp
+  configManager.cpp
+  config.cpp
+  choiceDialog.cpp
+  callTreeView.cpp
+  callTreeList.cpp
+  buildDialog.cpp
+  bitmaps.cpp
+  app.cpp
+  Generando código...
+app.obj : warning LNK4075: se omite '/EDITANDCONTINUE' debido a la especificación '/OPT:ICF'
+  recompiler_tools.vcxproj -> C:\Users\xdfah\Downloads\test\recompiler\dev\src\..\..\_bin\Debug\recompiler_tools.exe
+  recompiler_tools.vcxproj -> C:\Users\xdfah\Downloads\test\recompiler\dev\src\..\..\bin\Debug.x64\recompiler_tools.pdb (Full PDB)
+  C:\Users\xdfah\Downloads\test\recompiler\dev\src\..\external\wxWidgets-3.1.0\deploy.bat\..\lib\vc_x64_dll\wxbase31ud_net_vc_x64_custom.dll
+  C:\Users\xdfah\Downloads\test\recompiler\dev\src\..\external\wxWidgets-3.1.0\deploy.bat\..\lib\vc_x64_dll\wxbase31ud_vc_x64_custom.dll
+  C:\Users\xdfah\Downloads\test\recompiler\dev\src\..\external\wxWidgets-3.1.0\deploy.bat\..\lib\vc_x64_dll\wxbase31ud_xml_vc_x64_custom.dll
+  3 archivo(s) copiado(s)
+  No se encuentra el archivo: wxbase31ud_*.pdb
+  0 archivo(s) copiado(s)
+  C:\Users\xdfah\Downloads\test\recompiler\dev\src\..\external\wxWidgets-3.1.0\deploy.bat\..\lib\vc_x64_dll\wxmsw31ud_adv_vc_x64_custom.dll
+  C:\Users\xdfah\Downloads\test\recompiler\dev\src\..\external\wxWidgets-3.1.0\deploy.bat\..\lib\vc_x64_dll\wxmsw31ud_aui_vc_x64_custom.dll
+  C:\Users\xdfah\Downloads\test\recompiler\dev\src\..\external\wxWidgets-3.1.0\deploy.bat\..\lib\vc_x64_dll\wxmsw31ud_core_vc_x64_custom.dll
+  C:\Users\xdfah\Downloads\test\recompiler\dev\src\..\external\wxWidgets-3.1.0\deploy.bat\..\lib\vc_x64_dll\wxmsw31ud_gl_vc_x64_custom.dll
+  C:\Users\xdfah\Downloads\test\recompiler\dev\src\..\external\wxWidgets-3.1.0\deploy.bat\..\lib\vc_x64_dll\wxmsw31ud_html_vc_x64_custom.dll
+  C:\Users\xdfah\Downloads\test\recompiler\dev\src\..\external\wxWidgets-3.1.0\deploy.bat\..\lib\vc_x64_dll\wxmsw31ud_media_vc_x64_custom.dll
+  C:\Users\xdfah\Downloads\test\recompiler\dev\src\..\external\wxWidgets-3.1.0\deploy.bat\..\lib\vc_x64_dll\wxmsw31ud_propgrid_vc_x64_custom.dll
+  C:\Users\xdfah\Downloads\test\recompiler\dev\src\..\external\wxWidgets-3.1.0\deploy.bat\..\lib\vc_x64_dll\wxmsw31ud_qa_vc_x64_custom.dll
+  C:\Users\xdfah\Downloads\test\recompiler\dev\src\..\external\wxWidgets-3.1.0\deploy.bat\..\lib\vc_x64_dll\wxmsw31ud_ribbon_vc_x64_custom.dll
+  C:\Users\xdfah\Downloads\test\recompiler\dev\src\..\external\wxWidgets-3.1.0\deploy.bat\..\lib\vc_x64_dll\wxmsw31ud_richtext_vc_x64_custom.dll
+  C:\Users\xdfah\Downloads\test\recompiler\dev\src\..\external\wxWidgets-3.1.0\deploy.bat\..\lib\vc_x64_dll\wxmsw31ud_stc_vc_x64_custom.dll
+  C:\Users\xdfah\Downloads\test\recompiler\dev\src\..\external\wxWidgets-3.1.0\deploy.bat\..\lib\vc_x64_dll\wxmsw31ud_webview_vc_x64_custom.dll
+  C:\Users\xdfah\Downloads\test\recompiler\dev\src\..\external\wxWidgets-3.1.0\deploy.bat\..\lib\vc_x64_dll\wxmsw31ud_xrc_vc_x64_custom.dll
+  13 archivo(s) copiado(s)
+  No se encuentra el archivo: wxmsw31ud_*.pdb
+  0 archivo(s) copiado(s)

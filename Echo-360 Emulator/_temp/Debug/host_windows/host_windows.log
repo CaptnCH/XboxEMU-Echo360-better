@@ -1,0 +1,7 @@
+﻿  build.cpp
+  winMemory.cpp
+  winKernel.cpp
+  winFileSystem.cpp
+  main.cpp
+  Generando código...
+  host_windows.vcxproj -> C:\Users\xdfah\Downloads\test\recompiler\dev\src\..\..\_bin\Debug\host_windows.lib

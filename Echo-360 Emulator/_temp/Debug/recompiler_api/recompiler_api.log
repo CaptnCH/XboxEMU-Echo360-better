@@ -1,0 +1,5 @@
+﻿  build.cpp
+  main.cpp
+build.obj : warning LNK4075: se omite '/EDITANDCONTINUE' debido a la especificación '/OPT:ICF'
+  recompiler_api.vcxproj -> C:\Users\xdfah\Downloads\test\recompiler\dev\src\..\..\_bin\Debug\recompiler_api.exe
+  recompiler_api.vcxproj -> C:\Users\xdfah\Downloads\test\recompiler\dev\src\..\..\bin\Debug.x64\recompiler_api.pdb (Full PDB)

@@ -1,0 +1,23 @@
+﻿  xenonPlatform.cpp
+  mspack.cpp
+  xenonImageLoader.cpp
+  xenonCPU.cpp
+  xenonCodeGeneration.cpp
+c:\users\xdfah\downloads\test\recompiler\dev\src\xenon_decompiler\xenoncodegeneration.cpp(453): warning C4244: 'argumento': conversión de 'const uint64' a 'const uint32'; posible pérdida de datos
+c:\users\xdfah\downloads\test\recompiler\dev\src\xenon_decompiler\xenoncodegeneration.cpp(464): warning C4244: 'argumento': conversión de 'const uint64' a 'const uint32'; posible pérdida de datos
+  xenonImageDecoding.cpp
+c:\users\xdfah\downloads\test\recompiler\dev\src\xenon_decompiler\xenonimagedecoding.cpp(682): warning C4244: 'inicializando': conversión de 'uint64' a 'uint32'; posible pérdida de datos
+c:\users\xdfah\downloads\test\recompiler\dev\src\xenon_decompiler\xenonimagedecoding.cpp(682): warning C4244: 'inicializando': conversión de 'uint64' a 'const uint32'; posible pérdida de datos
+c:\users\xdfah\downloads\test\recompiler\dev\src\xenon_decompiler\xenonimagedecoding.cpp(742): warning C4244: 'inicializando': conversión de 'uint64' a 'uint32'; posible pérdida de datos
+c:\users\xdfah\downloads\test\recompiler\dev\src\xenon_decompiler\xenonimagedecoding.cpp(742): warning C4244: 'inicializando': conversión de 'uint64' a 'const uint32'; posible pérdida de datos
+c:\users\xdfah\downloads\test\recompiler\dev\src\xenon_decompiler\xenonimagedecoding.cpp(852): warning C4244: 'inicializando': conversión de 'uint64' a 'uint32'; posible pérdida de datos
+c:\users\xdfah\downloads\test\recompiler\dev\src\xenon_decompiler\xenonimagedecoding.cpp(852): warning C4244: 'inicializando': conversión de 'uint64' a 'const uint32'; posible pérdida de datos
+  xenonInstructionDecoding.cpp
+  Generando código...
+  rijndael-alg-fst.c
+xenonInstructionDecoding.obj : warning LNK4075: se omite '/EDITANDCONTINUE' debido a la especificación '/OPT:ICF'
+     Creando biblioteca C:\Users\xdfah\Downloads\test\recompiler\dev\src\..\..\_bin\Debug\xenon_decompiler.lib y objeto C:\Users\xdfah\Downloads\test\recompiler\dev\src\..\..\_bin\Debug\xenon_decompiler.exp
+  xenon_decompiler.vcxproj -> C:\Users\xdfah\Downloads\test\recompiler\dev\src\..\..\_bin\Debug\xenon_decompiler.dll
+  xenon_decompiler.vcxproj -> C:\Users\xdfah\Downloads\test\recompiler\dev\src\..\..\bin\Debug.x64\Recompiler.Xenon.Platform.pdb (Full PDB)
+  C:\Users\xdfah\Downloads\test\recompiler\dev\src\xenon_decompiler\xenon_decompiler.xml
+          1 archivo(s) copiado(s).

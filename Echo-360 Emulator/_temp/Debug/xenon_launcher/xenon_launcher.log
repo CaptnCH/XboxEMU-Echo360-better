@@ -1,0 +1,136 @@
+﻿  Performing Custom Build Tools
+  El sistema no puede encontrar la ruta especificada.
+  Microsoft (R) Direct3D Shader Compiler 10.1
+  Copyright (C) 2013 Microsoft. All rights reserved.
+  
+  compilation object save succeeded; see C:\Users\xdfah\Downloads\test\recompiler\dev\src\xenon_launcher\shaders\edramClear.cs.fx.fxc
+  Performing Custom Build Tools
+  El sistema no puede encontrar la ruta especificada.
+  Microsoft (R) Direct3D Shader Compiler 10.1
+  Copyright (C) 2013 Microsoft. All rights reserved.
+  
+C:\Users\xdfah\Downloads\test\recompiler\dev\src\xenon_launcher\shaders\edramCommon.h(192,67): warning X4000: use of potentially uninitialized variable (Decode_EDRAM_32)
+  
+  compilation object save succeeded; see C:\Users\xdfah\Downloads\test\recompiler\dev\src\xenon_launcher\shaders\edramDownload32.cs.fx.fxc
+  Performing Custom Build Tools
+  Performing Custom Build Tools
+  Performing Custom Build Tools
+  Performing Custom Build Tools
+  El sistema no puede encontrar la ruta especificada.
+  Microsoft (R) Direct3D Shader Compiler 10.1
+  Copyright (C) 2013 Microsoft. All rights reserved.
+  
+  compilation object save succeeded; see C:\Users\xdfah\Downloads\test\recompiler\dev\src\xenon_launcher\shaders\edramUpload32.cs.fx.fxc
+  Performing Custom Build Tools
+  El sistema no puede encontrar la ruta especificada.
+  Microsoft (R) Direct3D Shader Compiler 10.1
+  Copyright (C) 2013 Microsoft. All rights reserved.
+  
+  compilation object save succeeded; see C:\Users\xdfah\Downloads\test\recompiler\dev\src\xenon_launcher\shaders\edramClear32.fx.fxc
+  Performing Custom Build Tools
+  El sistema no puede encontrar la ruta especificada.
+  Microsoft (R) Direct3D Shader Compiler 10.1
+  Copyright (C) 2013 Microsoft. All rights reserved.
+  
+  compilation object save succeeded; see C:\Users\xdfah\Downloads\test\recompiler\dev\src\xenon_launcher\shaders\geometryQuadList.gs.fx.fxc
+  Performing Custom Build Tools
+  El sistema no puede encontrar la ruta especificada.
+  Microsoft (R) Direct3D Shader Compiler 10.1
+  Copyright (C) 2013 Microsoft. All rights reserved.
+  
+  compilation object save succeeded; see C:\Users\xdfah\Downloads\test\recompiler\dev\src\xenon_launcher\shaders\geometryRectList.gs.fx.fxc
+  Performing Custom Build Tools
+  El sistema no puede encontrar la ruta especificada.
+  Microsoft (R) Direct3D Shader Compiler 10.1
+  Copyright (C) 2013 Microsoft. All rights reserved.
+  
+  compilation object save succeeded; see C:\Users\xdfah\Downloads\test\recompiler\dev\src\xenon_launcher\shaders\copyTextureFloat.cs.fx.fxc
+  Performing Custom Build Tools
+  El sistema no puede encontrar la ruta especificada.
+  Microsoft (R) Direct3D Shader Compiler 10.1
+  Copyright (C) 2013 Microsoft. All rights reserved.
+  
+  compilation object save succeeded; see C:\Users\xdfah\Downloads\test\recompiler\dev\src\xenon_launcher\shaders\copyTextureUnorm.cs.fx.fxc
+  Performing Custom Build Tools
+  El sistema no puede encontrar la ruta especificada.
+  Microsoft (R) Direct3D Shader Compiler 10.1
+  Copyright (C) 2013 Microsoft. All rights reserved.
+  
+  compilation object save succeeded; see C:\Users\xdfah\Downloads\test\recompiler\dev\src\xenon_launcher\shaders\copyTextureUint.cs.fx.fxc
+  build.cpp
+  xenonUtils.cpp
+  xenonUserManager.cpp
+  xenonTimeBase.cpp
+  xenonThread.cpp
+  xenonPlatform.cpp
+  xenonMemory.cpp
+  xenonLibXAM.cpp
+  xenonKernel.cpp
+  xenonLibKernel.cpp
+  xenonLibVideo.cpp
+  xenonLib.cpp
+  xenonLibNet.cpp
+  xenonLibNatives.cpp
+  xenonLibMemory.cpp
+  xenonLibInput.cpp
+  xenonLibFiles.cpp
+  xenonLibErrors.cpp
+  xenonLibDebug.cpp
+  xenonLibCRT.cpp
+  xenonLibConfig.cpp
+  Generando código...
+  Compilando...
+  xenonLibAudio.cpp
+  xenonInput.cpp
+  xenonGraphics.cpp
+  xenonGPUUtils.cpp
+  xenonGPUTraceWriter.cpp
+  xenonGPUThread.cpp
+  xenonGPUTextures.cpp
+  xenonGPUState.cpp
+  xenonGPURegisters.cpp
+  xenonGPUMicrocodeTransformer.cpp
+  xenonGPUExecutor.cpp
+  xenonGPUDumpWriterImpl.cpp
+  xenonGPUDumpFormat.cpp
+  xenonGPUCommandBuffer.cpp
+  xenonGPU.cpp
+  xenonFileSystemFiles.cpp
+  xenonFileSystemDevices.cpp
+  xenonFileSystem.cpp
+  xenonInplaceExecution.cpp
+  xenonCPUDevice.cpp
+  Generando código...
+  Compilando...
+  xenonCPU.cpp
+  xenonBindings.cpp
+  xenonAudio.cpp
+  dx11Utils.cpp
+  dx11TextureManager.cpp
+  dx11SurfaceMemory.cpp
+  dx11SurfaceManager.cpp
+  dx11SurfaceCache.cpp
+  dx11StateCache.cpp
+  dx11Staging.cpp
+  dx11ShaderHLSLWriter.cpp
+  dx11ShaderCache.cpp
+  dx11ShaderBuilder.cpp
+  dx11Shader.cpp
+  dx11SamplerCache.cpp
+  dx11RenderingWindow.cpp
+  dx11MicrocodeShader.cpp
+  dx11MicrocodeNodes.cpp
+  dx11MicrocodeDecompiler.cpp
+  dx11MicrocodeCache.cpp
+  Generando código...
+  Compilando...
+  dx11MicrocodeBlocksTranslator.cpp
+  dx11MicrocodeBlocks.cpp
+  dx11GeometryDrawer.cpp
+  dx11GeometryBuffer.cpp
+  dx11FetchLayout.cpp
+  dx11AbstractLayer.cpp
+  Generando código...
+dx11AbstractLayer.obj : warning LNK4075: se omite '/EDITANDCONTINUE' debido a la especificación '/OPT:ICF'
+  xenon_launcher.vcxproj -> C:\Users\xdfah\Downloads\test\recompiler\dev\src\..\..\_bin\Debug\xenon_launcher.exe
+  xenon_launcher.vcxproj -> C:\Users\xdfah\Downloads\test\recompiler\dev\src\..\..\bin\Debug.x64\Recompiler.Xenon.Launcher.pdb (Full PDB)

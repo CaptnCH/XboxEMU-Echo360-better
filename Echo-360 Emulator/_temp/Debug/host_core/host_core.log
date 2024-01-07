@@ -1,0 +1,43 @@
+﻿  build.cpp
+  runtimeTraceWriter.cpp
+  runtimeTraceFile.cpp
+  runtimeSymbols.cpp
+  launcherOutputTTY.cpp
+  runtimeImage.cpp
+  runtimeRegisterBank.cpp
+  runtimePlatform.cpp
+  runtimeException.cpp
+  runtimeEnvironment.cpp
+  runtimeDevice.cpp
+  runtimeCPU.cpp
+  runtimeCodeTable.cpp
+  runtimeCodeExecutor.cpp
+  networkSocket.cpp
+  networkManagerImpl.cpp
+  networkAddress.cpp
+  native.cpp
+  launcherUtils.cpp
+  launcherCommandline.cpp
+  blockAllocator.cpp
+  Generando código...
+  Compilando...
+  bitset.cpp
+  Generando código...
+  zutil.c
+  uncompr.c
+  trees.c
+  inftrees.c
+  inflate.c
+  inffast.c
+  infback.c
+  deflate.c
+  crc32.c
+  compress.c
+  adler32.c
+  Generando código...
+runtimeException.obj : warning LNK4221: Este archivo de objeto no define ning·n sÝmbolo p·blico que no se haya definido previamente, por lo que no se usarß en ninguna vinculaci¾n que utilice esta biblioteca
+  host_core.vcxproj -> C:\Users\xdfah\Downloads\test\recompiler\dev\src\..\..\_bin\Debug\host_core.lib
+  C:\Users\xdfah\Downloads\test\recompiler\dev\src\..\external\xinput1_3\deploy.bat\..\xinput1_3.dll
+  1 archivo(s) copiado(s)
+  C:\Users\xdfah\Downloads\test\recompiler\dev\src\..\external\d3dcompiler_46\deploy.bat\..\d3dcompiler_46.dll
+  1 archivo(s) copiado(s)

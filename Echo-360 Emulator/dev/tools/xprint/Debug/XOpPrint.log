@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  XOpPrint.cpp
+c:\users\xdfah\downloads\test\recompiler\dev\tools\xprint\xopprint.cpp(357): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.22621.0\ucrt\stdio.h(213): note: vea la declaración de 'fopen'
+c:\users\xdfah\downloads\test\recompiler\dev\tools\xprint\xopprint.cpp(409): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.22621.0\ucrt\stdio.h(213): note: vea la declaración de 'fopen'
+c:\users\xdfah\downloads\test\recompiler\dev\tools\xprint\xopprint.cpp(235): warning C4715: 'Instruction::Update': no todas las rutas de acceso de control devuelven un valor
+  XOpPrint.vcxproj -> C:\Users\xdfah\Downloads\test\recompiler\dev\tools\xprint\XOpPrint.exe

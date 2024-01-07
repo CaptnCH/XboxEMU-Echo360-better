@@ -1,0 +1,52 @@
+﻿  build.cpp
+  xmlReader.cpp
+  traceUtils.cpp
+  traceRawReader.cpp
+  traceMemorySlice.cpp
+  timemachine.cpp
+  externalAppWin.cpp
+  platformDefinition.cpp
+  output.cpp
+  image.cpp
+  platformLibrary.cpp
+  internalUtils.cpp
+  internalFile.cpp
+  platformCPU.cpp
+  decodingEnvironment.cpp
+  traceMemoryHistory.cpp
+  traceCalltree.cpp
+  traceMemoryHistoryBuilder.cpp
+  traceDataFile.cpp
+  traceDataBuilder.cpp
+  platformExports.cpp
+  Generando código...
+  Compilando...
+  decodingNameMap.cpp
+  decodingMemoryMap.cpp
+  decodingInstructionInfo.cpp
+  decodingInstructionCache.cpp
+  decodingInstruction.cpp
+  decodingContext.cpp
+  decodingCommentMap.cpp
+  decodingAddressMap.cpp
+  codePrinter.cpp
+  codeGeneratorMSVC.cpp
+  codeGenerator.cpp
+  Generando código...
+  zutil.c
+  uncompr.c
+  trees.c
+  inftrees.c
+  inflate.c
+  inffast.c
+  infback.c
+  deflate.c
+  crc32.c
+  compress.c
+  adler32.c
+  Generando código...
+     Creando biblioteca C:\Users\xdfah\Downloads\test\recompiler\dev\src\..\..\_bin\Debug\recompiler_core.lib y objeto C:\Users\xdfah\Downloads\test\recompiler\dev\src\..\..\_bin\Debug\recompiler_core.exp
+  recompiler_core.vcxproj -> C:\Users\xdfah\Downloads\test\recompiler\dev\src\..\..\_bin\Debug\recompiler_core.dll
+  recompiler_core.vcxproj -> C:\Users\xdfah\Downloads\test\recompiler\dev\src\..\..\bin\Debug.x64\recompiler_core.pdb (Full PDB)
+  C:\Users\xdfah\Downloads\test\recompiler\dev\src\recompiler_core\platforms.xml
+          1 archivo(s) copiado(s).
