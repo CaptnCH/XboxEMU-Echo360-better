@@ -3,6 +3,7 @@
 
 # XboxEMU Echo360
 New Xbox 360 Emulator for PC Echo360
+Credits to RexDex tools. 
 
 Hello everyone,
 
