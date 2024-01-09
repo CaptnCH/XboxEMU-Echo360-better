@@ -7,3 +7,4 @@ size 128
 * text=auto
 *.ccp linguist-language=Rust
 *.h linguist-language=Rust
+*.rs linguist-language=Rust
